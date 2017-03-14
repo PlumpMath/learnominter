@@ -87,5 +87,5 @@
   :person/middleInitial "E"
   :person/lastName "Tweakit"
   :person/email "morebugs@mit.edu"
-  :person/roles [#db/id[:db.part/user -201]]}
-  ]
+  :person/roles [#db/id[:db.part/user -201]]}]
+
